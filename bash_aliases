@@ -1,0 +1,1 @@
+alias gcc='gcc -Wall -Wextra -Werror -std=gnu99'
